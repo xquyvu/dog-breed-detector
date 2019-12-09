@@ -2,8 +2,6 @@
 
 In this project, I have developed an application that, given an image of a dog, it will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
-![Sample Output][image1]
-
 ## Installation
 
 1. Clone the repository and navigate to the downloaded folder.
