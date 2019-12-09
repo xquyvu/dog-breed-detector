@@ -19,7 +19,7 @@ cd dog-breed-detector
 
    **pip**
    ```
-   pip install requirements.txt`
+   pip install requirements.txt
    ```
 
    **conda**
