@@ -17,11 +17,11 @@ cd dog-breed-detector
 
 3. Install requirements
 
-**pip**
-`pip install requirements.txt`
+  **pip**
+  `pip install requirements.txt`
 
-**conda**
-`conda env create -f deep-cv-pytorch.yml`
+  **conda**
+  `conda env create -f deep-cv-pytorch.yml`
 
 ## Usage
 Simply run main.py and provide the path to your image.
