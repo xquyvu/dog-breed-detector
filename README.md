@@ -5,11 +5,11 @@ In this project, I have developed an application that, given an image of a dog, 
 ## Installation
 
 1. Clone the repository and navigate to the downloaded folder.
-	
-	```	
-		git clone https://github.com/xquyvu/dog-breed-detector.git
-		cd dog-breed-detector
-	```
+
+```	
+git clone https://github.com/xquyvu/dog-breed-detector.git
+cd dog-breed-detector
+```
 
 2. Get the trained models
 - The model can be downloaded [here](https://www.dropbox.com/s/tuctyg6dmmvpy8y/model_transfer.pt?dl=0)
